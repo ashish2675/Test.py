@@ -2,4 +2,9 @@
 
 print("Hello world")
 
-This is the second line.
+# This is the second line.
+
+print ("yoo")
+
+#  3rd line
+print("3rd line")
